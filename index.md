@@ -15,6 +15,8 @@ Hello! My name is **QIYUE**. I am an undergraduate student interested in data an
 
 ## Featured Project: Weather and Bike-Sharing Demand
 
+**Combined 731 daily bike-rental records with NOAA weather data; all 731 dates matched, and temperature was positively correlated with rentals (r ≈ 0.628).**
+
 **Research question:** How are daily bike-sharing rentals associated with weather conditions in the Washington, D.C. area?
 
 ![Daily bike-sharing rental demand](daily_rental_demand.png)
